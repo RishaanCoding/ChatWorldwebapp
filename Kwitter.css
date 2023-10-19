@@ -1,5 +1,16 @@
 .header img
 {
-    width:80px; margin-left: -15px;
+    width:80px;
 }
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.login_div
+{
+    margin-left: 450px;
+}
+
 
